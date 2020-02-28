@@ -4,7 +4,7 @@
 }
 
 body {
-    background-color: #d6d6d6;
+    background-color: black;
 }
 
 h1 {
@@ -36,11 +36,11 @@ section.Aryabhatta>h2 {
     background-color: #76b8db;
 }
 
-section.fubini>h2 {
+section.Pythagoras>h2 {
     background-color: #4f7acd;
 }
 
-section.luzin>h2 {
+section.Euler>h2 {
     color: #e2e2e2;
     background-color: #10328a;
 }
